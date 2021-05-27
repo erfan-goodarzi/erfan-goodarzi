@@ -1,18 +1,20 @@
-### Hi there 👋
+## Hi there. I'm Erfan 🖐 
 
-<!--
-**erfan-goodarzi/erfan-goodarzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 😍 I love math, programming, technology, and... Have a guess :))
+- 🌱 I’m addicted to learning and growing every day. With a little exaggeration 🤞
+- :earth_africa: I am currently sharing some of my knowledge through [my blogs](https://anamisiha.ir/author/erfan_goodarzi/) and world technology news.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=erfan-goodarzi&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false)](https://github.com/erfan-goodarzi/erfan-goodarzi)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?erfan-goodarzi=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-goodarzi&langs_count=8&layout=compact&theme=midnight-purple)](https://github.com/erfan-goodarzi/)
+### Connect with me on:
+  - 📑 [LinkedIn](https://www.linkedin.com/in/erfan-goodazi-83b8481b3/)
+  - [Instagram](https://www.instagram.com/erfan.goodarzi/)
+  - 🌐	[My websites](https://erfan-goodarzi.ir) "comming soon"
