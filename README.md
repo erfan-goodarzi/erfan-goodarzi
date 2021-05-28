@@ -1,5 +1,6 @@
 ## Hi there. I'm Erfan 🖐 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erfan-goodarzi&label=Profile%20views&color=blueviolet&style=flat-square" alt="erfan-goodarzi" /> </p>
+ 
 
 - 😍 I love math, programming, technology, and... Have a guess :))
 - 🌱 I’m addicted to learning and growing every day. With a little exaggeration 🤞
