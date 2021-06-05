@@ -36,5 +36,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-goodarzi&langs_count=8&layout=compact&theme=midnight-purple)](https://github.com/erfan-goodarzi/)
 ### Connect with me on:
   - 📑 [LinkedIn](https://www.linkedin.com/in/erfan-goodazi-83b8481b3/)
-  - [Instagram](https://www.instagram.com/erfan.goodarzi/)
+  - Stay in touch with me devgoodarzi@protonmail.com
   - 🌐	[My websites](https://erfan-goodarzi.ir) "comming soon"
