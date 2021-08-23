@@ -2,7 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erfan-goodarzi&label=Profile%20views&color=blueviolet&style=flat-square" alt="erfan-goodarzi" /> </p>
  
 
-- 😍 I love math, programming, technology, and... Have a guess :))
 - 🌱 I’m addicted to learning and growing every day. With a little exaggeration 🤞
 - :earth_africa: I am currently sharing some of my knowledge through [my blogs](https://anamisiha.ir/author/erfan_goodarzi/) and world technology news.
 
