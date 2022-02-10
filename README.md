@@ -3,7 +3,6 @@
  
 
 - 🌱 I’m addicted to learning and growing every day. With a little exaggeration 🤞
-- :earth_africa: I am currently sharing some of my knowledge through [my blogs](https://anamisiha.ir/author/erfan_goodarzi/) and world technology news.
 
   
 <hr>
