@@ -1,10 +1,20 @@
-## Hi there. I'm Erfan 🖐 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erfan-goodarzi&label=Profile%20views&color=blueviolet&style=flat-square" alt="erfan-goodarzi" /> </p>
- 
 
-- 🌱 I’m addicted to learning and growing every day. With a little exaggeration 🤞
+## Hi there. I'm Erfan 🖐 
+
+
+### :man_technologist: &nbsp;About Me
+
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2019 and working from home.\
+&nbsp;&nbsp;&nbsp;:muscle: &nbsp;I’m addicted to learning and growing every day. 🤞 With a little exaggeratio.
 
   
+ <p align="left">
+  <a href="mailto:devgoodarzi@protonmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/erfan.goodarzi.7927"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/erfan.goodarzi/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/erfan-goodazi-83b8481b3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 <hr>
 
 ### I USE: 
@@ -32,7 +42,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-goodarzi&langs_count=8&layout=compact&theme=midnight-purple)](https://github.com/erfan-goodarzi/)
-### Connect with me on:
-  - 📑 [LinkedIn](https://www.linkedin.com/in/erfan-goodazi-83b8481b3/)
-  - Stay in touch with me devgoodarzi@protonmail.com
-  - 🌐	[My websites](https://erfan-goodarzi.ir) "comming soon"
+
