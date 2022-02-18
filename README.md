@@ -1,10 +1,10 @@
 
 <div align="center">
-
-## Hi There. I'm ERFAN 🖐 
-
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239B8484&size=22&duration=3800&center=true&vCenter=true&width=416&lines=Hi+There%2C+My+name+is+ERFAN.;I'm+a+front-end+developer)](https://git.io/typing-svg)
        
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239B8484&size=22&duration=4000&center=true&vCenter=true&width=416&lines=Welcome+to+my+Github+profile.;html%2C+css+%2Cjavascript%2C+react%2C+redux+....)](https://git.io/typing-svg)       
+       
 ### &nbsp;< About Me / >
 
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines.\
@@ -45,17 +45,19 @@
 
 <hr>
   
-
+#### 🔔 My Latest Github Metrics
+![Metrics](https://metrics.lecoq.io/erfan-goodarzi?template=classic&base.header=0&isocalendar=1&followup=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&config.timezone=Asia%2FTehran)
   
   
  
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
-    <p align="center">
-        <img height="197px" src="https://github-readme-streak-stats.herokuapp.com?user=erfan-goodarzi&theme=Javascript&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=erfan-goodarzi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=highcontrast " /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-goodarzi&hide_border=true&layout=compact&langs_count=10&theme=highcontrast" />
-    </p>
+<p align="center">
+      <img height="197px" src="https://github-readme-streak-stats.herokuapp.com?user=erfan-goodarzi&theme=Javascript&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+<p align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=erfan-goodarzi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=highcontrast " /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-goodarzi&hide_border=true&layout=compact&langs_count=10&theme=highcontrast" />
+</p>
 
+       
 </div>
