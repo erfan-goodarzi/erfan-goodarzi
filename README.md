@@ -9,7 +9,7 @@
 
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2019 and working from home.\
-&nbsp;&nbsp;&nbsp;:muscle: &nbsp;I’m addicted to learning and growing every day. 🤞 With a little exaggeratio.
+&nbsp;&nbsp;&nbsp;🤞 I enjoy growing and learning new things.
 
   
  <p align="center">
