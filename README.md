@@ -37,8 +37,6 @@
 ![Babel](https://img.shields.io/badge/Babel-E34F26.svg?&style=flat-square&logo=Babel&logoColor=yellow&color=222)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?&style=flat-square&logo=git&logoColor=yellow&color=222)
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?&style=flat-square&logo=github&logoColor=yellow&color=222)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square-square&logo=linux&logoColor=black&logoColor=yellow&color=222)
-![Npm](https://img.shields.io/badge/NPM-FCC624?style=flat-square-square&logoColor=yellow&color=222)
 ![Prettier](https://img.shields.io/badge/Prettier-E34F26.svg?&style=flat-square&logo=prettier&logoColor=yellow&color=222)
 ![VIM](https://img.shields.io/badge/Vim-E34F26.svg?&style=flat-square&logo=vim&logoColor=yellow&color=222)
 ![VSCode](https://img.shields.io/badge/VsCode-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=yellow&color=222)
