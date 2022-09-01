@@ -43,12 +43,11 @@
 
 <hr>
   
-#### 🔔 My Latest Github Metrics
-![Metrics](https://metrics.lecoq.io/erfan-goodarzi?template=classic&base.header=0&isocalendar=1&followup=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&config.timezone=Asia%2FTehran)
+
   
   
  
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <p><b>:gear: &nbsp;GitHub Statistics</b></p>
   <br/>
 <p align="center">
       <img height="197px" src="https://github-readme-streak-stats.herokuapp.com?user=erfan-goodarzi&theme=Javascript&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
