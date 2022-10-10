@@ -50,10 +50,10 @@
   <p><b>:gear: &nbsp;GitHub Statistics</b></p>
   <br/>
 <p align="center">
-      <img height="197px" src="https://github-readme-streak-stats.herokuapp.com?user=erfan-goodarzi&theme=Javascript&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+ <img height="197px" src="https://streak-stats.demolab.com?user=erfan-goodarzi&theme=yellowdark&hide_border=true&border_radius=3.5" />
 </p>
 <p align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=erfan-goodarzi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=highcontrast " /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-goodarzi&hide_border=true&layout=compact&langs_count=10&theme=highcontrast" />
+ <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-goodarzi&hide_border=true&layout=compact&langs_count=10&theme=highcontrast" />
 </p>
 
        
