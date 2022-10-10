@@ -52,9 +52,6 @@
 <p align="center">
  <img height="197px" src="https://streak-stats.demolab.com?user=erfan-goodarzi&theme=yellowdark&hide_border=true&border_radius=3.5" />
 </p>
-<p align="center">
- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-goodarzi&hide_border=true&layout=compact&langs_count=10&theme=highcontrast" />
-</p>
 
        
 </div>
