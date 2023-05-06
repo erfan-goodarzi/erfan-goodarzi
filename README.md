@@ -38,18 +38,5 @@
 ![Prettier](https://img.shields.io/badge/Prettier-E34F26.svg?&style=flat-square&logo=prettier&logoColor=yellow&color=222)
 ![VIM](https://img.shields.io/badge/Vim-E34F26.svg?&style=flat-square&logo=vim&logoColor=yellow&color=222)
 ![VSCode](https://img.shields.io/badge/VsCode-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=yellow&color=222)
-
-<hr>
-  
-
-  
-  
- 
-  <p><b>:gear: &nbsp;GitHub Statistics</b></p>
-  <br/>
-<p align="center">
- <img height="197px" src="https://streak-stats.demolab.com?user=erfan-goodarzi&theme=yellowdark&hide_border=true&border_radius=3.5" />
-</p>
-
        
 </div>
