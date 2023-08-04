@@ -1,7 +1,7 @@
 
 <div align="center">
  
-![image](https://github.com/erfan-goodarzi/erfan-goodarzi/assets/63591256/58129f54-1a60-4d3f-9488-681877442f62)
+![Screenshot from 2023-08-04 19-15-22](https://github.com/erfan-goodarzi/erfan-goodarzi/assets/63591256/f8f549c4-cfc6-4eef-8b2a-21da32ddf42b)
 
 
 ### &nbsp;< About Me / >
