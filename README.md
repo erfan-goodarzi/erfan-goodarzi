@@ -40,7 +40,7 @@ routines.\
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=000&color=F8DC3F)&nbsp;
 ![Prettier](https://img.shields.io/badge/Prettier-E34F26.svg?&style=for-the-badge&logo=prettier&logoColor=000&color=F8DC3F)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=000&color=F8DC3F)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=000&color=F8DC3F)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=000&color=F8DC3F)&nbsp;
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=000&color=F8DC3F)&nbsp;
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=000&color=F8DC3F)&nbsp;
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=000&color=F8DC3F)&nbsp;
