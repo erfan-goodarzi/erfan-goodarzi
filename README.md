@@ -4,10 +4,11 @@
 
 ### &nbsp;< About Me / >
 
-&nbsp;&nbsp;&nbsp;:rocket: &nbsp;Passionate with problem solving and daily
+
+&nbsp;&nbsp;&nbsp;🚀 Passionate with problem solving and daily
 routines.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2019 and working from home.\
-&nbsp;&nbsp;&nbsp;:crossed_fingers: Enjoy growing and learning new things.
+&nbsp;&nbsp;&nbsp;☕ Coding since 2019 and working from home.\
+&nbsp;&nbsp;&nbsp;🤞 Enjoy growing and learning new things.
 
  <p align="center">
   <a href="mailto:devgoodarzi@protonmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
