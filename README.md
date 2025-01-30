@@ -23,6 +23,7 @@ routines.\
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=000&color=F8DC3F)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=000&color=F8DC3F)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=000&color=F8DC3F)&nbsp;
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=000&color=F8DC3F)&nbsp;
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=000&color=F8DC3F)&nbsp;
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=000&color=F8DC3F)&nbsp;
 ![Recoil](https://img.shields.io/badge/Recoil-E34F26.svg?&style=for-the-badge&logo=Recoil&logoColor=000&color=F8DC3F)&nbsp;
@@ -36,6 +37,7 @@ routines.\
 
 ### Tools & UI libs
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=000&color=F8DC3F)&nbsp;
+![Pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=000&color=F8DC3F)&nbsp;
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=000&color=F8DC3F)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=000&color=F8DC3F)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=000&color=F8DC3F)&nbsp;
